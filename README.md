@@ -114,8 +114,8 @@ int main(void)
   
   while (1)
   {
-	  printf("MOHAMMED PARVEZ S\n");
-	  printf("212223040113\n");
+	  printf("Vishal S S\n");
+	  printf("212224040364\n");
 	  HAL_Delay(500);
       }
  }
